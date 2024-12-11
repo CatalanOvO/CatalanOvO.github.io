@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+- /about/
+- /about.html
+---
+
 Nice to meet you!
 
 I'm a third year undergraduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interest includes computer vision, computer graphics and deep learning.
