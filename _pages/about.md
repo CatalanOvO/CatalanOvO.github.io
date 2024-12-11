@@ -14,4 +14,4 @@ I'm a third year undergraduate student from [School of Information and Software 
 
 You can find my CV here: [Lingfeng Zhou's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](mailto:2022091201014@stu.uestc.edu.cn) / [Github](https://github.com/CatalanOvO) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Catalany?spm=1000.2115.3001.5343)
+[Email](mailto:2022091201014@stu.uestc.edu.cn) / [Github](https://github.com/CatalanOvO) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Catalany?spm=1000.2115.3001.5343) / [MyWebsite](catalan2529.xyz)
